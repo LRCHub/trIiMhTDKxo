@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "シャルル - Charles",
+  "base_artist": "Ado",
+  "createdAt": "2026-03-04T14:35:55.743643Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シャルル",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/01_シャルル_96猫.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シャルル",
+      "artist": "Rib",
+      "has_synced": true,
+      "path": "select/02_シャルル_Rib.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シャルル - Cover",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/03_シャルル_-_Cover_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シャルル",
+      "artist": "バルーン",
+      "has_synced": true,
+      "path": "select/04_シャルル_バルーン.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シャルル",
+      "artist": "balloon",
+      "has_synced": true,
+      "path": "select/05_シャルル_balloon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シャルル",
+      "artist": "balloon feat. v flower",
+      "has_synced": true,
+      "path": "select/06_シャルル_balloon_feat._v_flower.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シャルル",
+      "artist": "バルーン",
+      "has_synced": true,
+      "path": "select/07_シャルル_バルーン.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シャルル",
+      "artist": "バルーン feat. v flower",
+      "has_synced": true,
+      "path": "select/08_シャルル_バルーン_feat._v_flower.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "シャルル - Charles",
+      "artist": "balloon",
+      "has_synced": true,
+      "path": "select/09_シャルル_-_Charles_balloon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "シャルル (self cover) - Charles (self cover)",
+      "artist": "balloon",
+      "has_synced": true,
+      "path": "select/10_シャルル_(self_cover)_-_Charles_(self_cover)_balloon.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "シャルル",
+      "artist": "YuNi",
+      "has_synced": true,
+      "path": "select/11_シャルル_YuNi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "シャルル",
+      "artist": "バルーン feat. flower",
+      "has_synced": true,
+      "path": "select/12_シャルル_バルーン_feat._flower.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "シャルル",
+      "artist": "バルーン feat. あやぽんず＊",
+      "has_synced": true,
+      "path": "select/13_シャルル_バルーン_feat._あやぽんず.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "シャルル",
+      "artist": "バルーン feat. v flower",
+      "has_synced": true,
+      "path": "select/14_シャルル_バルーン_feat._v_flower.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "シャルル (self cover)",
+      "artist": "バルーン",
+      "has_synced": true,
+      "path": "select/15_シャルル_(self_cover)_バルーン.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "シャルル／flower",
+      "artist": "Keina Suda",
+      "has_synced": true,
+      "path": "select/16_シャルル_flower_Keina_Suda.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シャルル Prod. by キタニタツヤ",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_シャルル_Prod._by_キタニタツヤ_Ado.txt"
+    }
+  ]
+}
